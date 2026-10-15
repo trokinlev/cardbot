@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.oxlintrc.json
+.prettierrc
+nest-cli.json
+package-lock.json
+
+.env
+
+*.log
+*.tmp
+*.bak
